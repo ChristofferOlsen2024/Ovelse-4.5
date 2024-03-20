@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ovelse 4.5", "Ovelse 4.5\Ovelse 4.5.csproj", "{F3645A2A-7039-4F17-BB3F-10D733DF4CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3645A2A-7039-4F17-BB3F-10D733DF4CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3645A2A-7039-4F17-BB3F-10D733DF4CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3645A2A-7039-4F17-BB3F-10D733DF4CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3645A2A-7039-4F17-BB3F-10D733DF4CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8624A4E8-B04B-434D-B5B5-36509E86D0A4}
+	EndGlobalSection
+EndGlobal
